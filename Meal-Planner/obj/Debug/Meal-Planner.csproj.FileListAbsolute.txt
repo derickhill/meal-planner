@@ -1,0 +1,11 @@
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\bin\Debug\Meal-Planner.exe.config
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\bin\Debug\Meal-Planner.exe
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\bin\Debug\Meal-Planner.pdb
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\obj\Debug\Meal-Planner.csproj.AssemblyReference.cache
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\obj\Debug\Meal_Planner.frmInitial.resources
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\obj\Debug\Meal_Planner.Properties.Resources.resources
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\obj\Debug\Meal-Planner.csproj.GenerateResource.cache
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\obj\Debug\Meal-Planner.csproj.CoreCompileInputs.cache
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\obj\Debug\Meal-Planner.exe
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\obj\Debug\Meal-Planner.pdb
+C:\Users\Derick\Documents\GitHub\meal-planner\Meal-Planner\obj\Debug\Meal_Planner.frmGeneratePlan.resources
